@@ -2,7 +2,7 @@
 
 # Команды
 
-[Список](/commands.sh) команд, выполненных на устройстве:
+[Список](metagenomics/commands.sh) команд, выполненных на устройстве:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/142241218-4948a840-0e97-4522-85d0-9bab7d7fbea8.png)
 
