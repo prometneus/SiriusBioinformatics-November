@@ -11,3 +11,5 @@ bash install_full.sh
 ./metaquast.py -r ../refs/*.fna -o ../metaquast_output/ ../metaspades/contigs.fasta
 metabat2 -i ./GenomeAssembly/metaspades/contigs.fasta -o ./GenomeAssembly/metabat_output/file
 ./metaquast.py -t 16 ../metabat_output/*.fa -o ../metaquast_output/report1
+**Чуть не сдох с этим checkM**
+checkm lineage_wf -t 16 -x fa metabat_output/ checkm_output
