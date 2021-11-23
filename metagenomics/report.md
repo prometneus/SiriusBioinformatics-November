@@ -46,3 +46,8 @@
 Теперь бинним полученные ранее контиги с помощью metabat2 и анализируем биннинги:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/142728876-1bd0e1aa-9130-43c4-b94c-77e180b86b3c.png)
+
+BUSCO для 1 файла с бинами:
+
+![изображение](https://user-images.githubusercontent.com/86663451/143059638-2e643b87-1c72-43d3-9b47-555cde5b2b4f.png)
+
