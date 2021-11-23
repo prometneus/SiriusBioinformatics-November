@@ -51,3 +51,6 @@ BUSCO для 1 файла с бинами:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/143059638-2e643b87-1c72-43d3-9b47-555cde5b2b4f.png)
 
+BUSCO для 2 файла:
+
+![изображение](https://user-images.githubusercontent.com/86663451/143061850-8f65d653-4c07-460b-b545-5b6e2002f5bb.png)
