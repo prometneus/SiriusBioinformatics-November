@@ -50,7 +50,9 @@ Pseudomonas_aeruginosa, согласно графику, имеет наибол
 
 Статистика показывает, что осталось 125 невыровненных контигов из чуть более 12 тысяч всего. Это довольно неплохой результат для таких-то данных. Мне очень нравится уровень сборки Bacillus_subtilis: ему нужен был всего 31 контиг, а N50 получился максимальным. Enterococcus_faecalis тоже хорош.
 
-N50 у Cryptococcus_neoformans: ![image](https://user-images.githubusercontent.com/86663451/143220214-34dca213-662c-4e5a-8d0a-9502b7f020fe.png)
+N50 у Cryptococcus_neoformans: 
+
+![image](https://user-images.githubusercontent.com/86663451/143220214-34dca213-662c-4e5a-8d0a-9502b7f020fe.png)
 
 Теперь бинним полученные ранее контиги с помощью metabat2 и анализируем биннинги:
 
