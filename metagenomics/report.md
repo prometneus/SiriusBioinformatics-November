@@ -64,10 +64,14 @@ BUSCO для 1 файла с бинами:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/143229599-08e99514-ebd5-44e4-864b-f2c3cd3d5710.png)
 
-BUSCO для 2 файла:
+Буско говорит, что для первого файла всё хорошо получилось: всего один пропуск в busco_out1.bacillales_odb10 и вообще нет фрагментированных частей и дупликатов.
+
+BUSCO для 2 файла с бинами:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/143229658-815270ef-cd48-4594-ad81-f5bc6d515ec7.png)
 
-BUSCO для 3 файла:
+
+
+BUSCO для 3 файла с бинами:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/143229704-de5e91e8-190c-44ca-93a1-b9c1e48fd047.png)
