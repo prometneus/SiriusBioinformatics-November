@@ -52,7 +52,7 @@ Pseudomonas_aeruginosa, согласно графику, имеет наибол
 
 N50 у Cryptococcus_neoformans: 
 
-![image](https://user-images.githubusercontent.com/86663451/143220214-34dca213-662c-4e5a-8d0a-9502b7f020fe.png)
+file:///home/artem/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/meme.png
 
 # Binning and BUSCO
 
