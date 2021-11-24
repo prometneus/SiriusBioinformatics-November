@@ -54,19 +54,20 @@ N50 у Cryptococcus_neoformans:
 
 ![image](https://user-images.githubusercontent.com/86663451/143220214-34dca213-662c-4e5a-8d0a-9502b7f020fe.png)
 
+# Binning and BUSCO
+
 Теперь бинним полученные ранее контиги с помощью metabat2 и анализируем биннинги:
 
 ![изображение](https://user-images.githubusercontent.com/86663451/143216873-4d990ef0-376f-45f5-88f6-40eaf783ea0e.png)
 
 BUSCO для 1 файла с бинами:
 
-![изображение](https://user-images.githubusercontent.com/86663451/143059638-2e643b87-1c72-43d3-9b47-555cde5b2b4f.png)
+![изображение](https://user-images.githubusercontent.com/86663451/143229599-08e99514-ebd5-44e4-864b-f2c3cd3d5710.png)
 
 BUSCO для 2 файла:
 
-![изображение](https://user-images.githubusercontent.com/86663451/143061850-8f65d653-4c07-460b-b545-5b6e2002f5bb.png)
+![изображение](https://user-images.githubusercontent.com/86663451/143229658-815270ef-cd48-4594-ad81-f5bc6d515ec7.png)
 
 BUSCO для 3 файла:
 
-![изображение](https://user-images.githubusercontent.com/86663451/143062947-681c6da3-00d1-46d8-9e12-abb949cbc7eb.png)
-
+![изображение](https://user-images.githubusercontent.com/86663451/143229704-de5e91e8-190c-44ca-93a1-b9c1e48fd047.png)
