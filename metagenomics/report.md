@@ -58,7 +58,9 @@ N50 у Cryptococcus_neoformans:
 
 Теперь бинним полученные ранее контиги с помощью metabat2 и анализируем биннинги:
 
-![изображение](https://user-images.githubusercontent.com/86663451/143216873-4d990ef0-376f-45f5-88f6-40eaf783ea0e.png)
+![изображение](https://user-images.githubusercontent.com/86663451/143238393-f24514ce-c43a-48b5-82f6-f51912381309.png)
+
+file.2 прекрасно собрался: Genome Fraction для Lactobacillus_fermentum очень высок, да и misassemblies совсем мало. file.4 имеет, кажется, самый синий largest alignment и уж точно самый синий NA90, что говорит о большой длине использованных для его сборки контигов. Однако, у него уже наблюдаются misassembles. file.8 вообще еле как собрался: огромные дыры в misassembles, много дупликатов, хотя у него и самая большая длина. file.9 будет чуть лучше восьмого, но тоже плох
 
 BUSCO для 1 файла с бинами:
 
