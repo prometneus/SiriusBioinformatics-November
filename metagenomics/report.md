@@ -62,18 +62,6 @@ N50 у Cryptococcus_neoformans:
 
 file.2 прекрасно собрался: Genome Fraction для Lactobacillus_fermentum очень высок, да и misassemblies совсем мало. file.4 имеет, кажется, самый синий largest alignment и уж точно самый синий NA90, что говорит о большой длине использованных для его сборки контигов. Однако, у него уже наблюдаются misassembles. file.8 вообще еле как собрался: огромные дыры в misassembles, много дупликатов, хотя у него и самая большая длина. file.9 будет чуть лучше восьмого, но тоже плох
 
-BUSCO для 1 файла с бинами:
+BUSCO для файлов с бинами:
 
-![изображение](https://user-images.githubusercontent.com/86663451/143229599-08e99514-ebd5-44e4-864b-f2c3cd3d5710.png)
-
-Буско говорит, что для первого файла всё хорошо получилось: всего один пропуск в busco_out1.bacillales_odb10 и вообще нет фрагментированных частей и дупликатов.
-
-BUSCO для 2 файла с бинами:
-
-![изображение](https://user-images.githubusercontent.com/86663451/143229658-815270ef-cd48-4594-ad81-f5bc6d515ec7.png)
-
-
-
-BUSCO для 3 файла с бинами:
-
-![изображение](https://user-images.githubusercontent.com/86663451/143229704-de5e91e8-190c-44ca-93a1-b9c1e48fd047.png)
+![изображение](https://user-images.githubusercontent.com/86663451/143262842-85246d01-d6d3-412e-8931-970169cc5e43.png)
